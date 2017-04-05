@@ -1,6 +1,5 @@
 import fire
 
-
 class Calculator(object):
     """A simple calculator."""
 
